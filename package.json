@@ -1,0 +1,25 @@
+{
+  "name": "band-name-generator",
+  "version": "1.0.0",
+  "description": "A simple band name generator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8ctopotamus/band-name-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8ctopotamus/band-name-generator/issues"
+  },
+  "homepage": "https://github.com/8ctopotamus/band-name-generator#readme",
+  "dependencies": {
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.1.4",
+    "random-word-slugs": "^0.1.6"
+  }
+}
